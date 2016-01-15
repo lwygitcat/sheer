@@ -1,12 +1,3 @@
-/** \file uncaught-except.c
- *
- * Report exception escaping "main" functions or functions that
- * exclude them from their throw specification.
- *
- * \author Zaur Kambarov
- * \date 01/03/06
- * (c) 2006-2015 Coverity, Inc. All rights reserved worldwide.
- **/
 
 #include "text/string-list.hpp" // split
 
