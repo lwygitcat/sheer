@@ -1,4 +1,3 @@
-// Copyright (c) 2006-2010,2012-2015 Synopsys, Inc. All rights reserved worldwide.
 #include "model-pattern.hpp"
 
 #include "exceptions/assert.hpp"
